@@ -3,17 +3,14 @@ package Projet.Film;
 import lombok.Builder;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import lombok.NoArgsConstructor;
 
 import java.util.ArrayList;
 import java.util.List;
 
 @Data
 @EqualsAndHashCode(callSuper = true)
-@NoArgsConstructor
 public class Serie extends Contenu {
 
-    @Builder.Default
     private List<Saison> saisons = new ArrayList<>();
 
     @Builder

@@ -1,8 +1,5 @@
 package Projet.Film;
 
-import com.streaming.enums.EtatLecture;
-import com.streaming.model.*;
-
 import java.time.LocalDateTime;
 
 /**

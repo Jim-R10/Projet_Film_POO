@@ -1,7 +1,5 @@
 package Projet.Film;
 
-import com.streaming.model.*;
-
 import java.util.Comparator;
 import java.util.List;
 
