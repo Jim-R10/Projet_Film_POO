@@ -1,5 +1,9 @@
 package Projet.Film;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1f7984bcb09e5167119ed64357225c5a579a88f3
 /**
  * Vérifie qu'un utilisateur a le droit de regarder un contenu.
  * Appelé par LecteurService avant chaque démarrage de lecture.
