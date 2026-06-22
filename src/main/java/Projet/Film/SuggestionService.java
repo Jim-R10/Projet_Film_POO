@@ -1,12 +1,5 @@
 package Projet.Film;
 
-import Projet.Film.Categorie;
-import Projet.Film.Contenu;
-import Projet.Film.Film;
-import Projet.Film.Profil;
-import Projet.Film.Recommandation;
-import Projet.Film.CatalogueService;
-
 import java.util.Comparator;
 import java.util.List;
 

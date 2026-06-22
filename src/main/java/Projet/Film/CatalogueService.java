@@ -1,10 +1,5 @@
 package Projet.Film;
 
-import com.streaming.enums.Categorie;
-import com.streaming.model.Contenu;
-import com.streaming.model.Film;
-import com.streaming.model.Serie;
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

@@ -1,6 +1,5 @@
 package Projet.Film;
 
-import com.streaming.model.Utilisateur;
 
 /**
  * Vérifie qu'un utilisateur a le droit de regarder un contenu.
